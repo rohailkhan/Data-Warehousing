@@ -1,0 +1,19 @@
+I have followed the Following steps to execute the given task
+
+A.	First of all ,I opened Oracle SQL Developer 
+
+B.	Then I connected to the Database,in case there is an already existing connection.Otherwise,I needed to connect with a new connection .
+
+C.	Then I opened the file named Transactional_masterData_Generator.sql and run it by pressing F5
+
+C.	The I opened the file named createDW.sql and  run it by pressing F5
+
+D.	Then I opened the file named INLJ.sql and  run it by pressing F5
+
+E.	Then I opened the file named queriesDW.sql and run the  different sql queries one by one to to view the result
+
+   
+    
+
+
+ 
